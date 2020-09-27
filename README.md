@@ -1,8 +1,6 @@
-# Qiniu 云储存 Laravel 5 Storage版
+# Qiniu 云储存
 
-基于 https://github.com/qiniu/php-sdk 开发
-
-符合Laravel 5 的Storage用法。
+基于 https://github.com/zgldh/qiniu-laravel-storage 修改
 
 ## 注意
 
